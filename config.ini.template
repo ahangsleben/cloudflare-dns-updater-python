@@ -1,0 +1,4 @@
+[cloudflare]
+zone_id = example
+api_token = example
+domain_name = example.com
